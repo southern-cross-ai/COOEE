@@ -25,13 +25,16 @@ The original data is downloaded from [LDaCA - A COrpus of Oz Early English (COOE
 
 ## Dataset Structure
 
-
+The directory `data/COOEE` includes 1357 plain `.txt` files collected from [LDaCA - A COrpus of Oz Early English (COOEE)](https://data.ldaca.edu.au/collection?id=arcp%3A%2F%2Fname%2Cdoi10.26180%252F23961609&_crateId=arcp%3A%2F%2Fname%2Cdoi10.26180%252F23961609).
 
 ## Download
 
+You can install the dependencies and download the dataset by running `download.ipynb`.
 
+Notice that, you need to register an account [LDaCA](https://data.ldaca.edu.au/) to use their **API** before downloading the dataset. 
 
-
+See more details in `download.ipynb`.
 
 ## License
 
+This repository is licensed under [MIT](https://opensource.org/license/mit).
