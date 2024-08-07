@@ -31,7 +31,7 @@ The directory `data/COOEE` includes 1357 plain `.txt` files collected from [LDaC
 
 You can install the dependencies and download the dataset by running `download.ipynb`.
 
-Notice that, you need to register an account [LDaCA](https://data.ldaca.edu.au/) to use their **API** before downloading the dataset. 
+Notice that, you need to register an account [LDaCA](https://data.ldaca.edu.au/) to use their **API** before downloading the dataset. Your API needs to be stored in `vars.env` to be loaded by the notebook.
 
 See more details in `download.ipynb`.
 
