@@ -25,7 +25,7 @@ The original data is downloaded from [LDaCA - A COrpus of Oz Early English (COOE
 
 ## Dataset Structure
 
-The directory `data/COOEE` includes 1357 plain `.txt` files collected from [LDaCA - A COrpus of Oz Early English (COOEE)](https://data.ldaca.edu.au/collection?id=arcp%3A%2F%2Fname%2Cdoi10.26180%252F23961609&_crateId=arcp%3A%2F%2Fname%2Cdoi10.26180%252F23961609).
+The directory `COOEE` includes 1357 plain `.txt` files collected from [LDaCA - A COrpus of Oz Early English (COOEE)](https://data.ldaca.edu.au/collection?id=arcp%3A%2F%2Fname%2Cdoi10.26180%252F23961609&_crateId=arcp%3A%2F%2Fname%2Cdoi10.26180%252F23961609).
 
 ## Download
 
