@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Keywords**: Australian and New Zealand English; Corpus linguistics
+**Keywords**: Australian English; Corpus linguistics
 
 The [COrpus of Oz Early English (COOEE)](https://researchdata.edu.au/corpus-oz-early-english/2013) is an innovative linguistic project aimed at creating a comprehensive digital repository of English language usage in Australia from its **early colonial period** through to the **early 20th century**. 
 
